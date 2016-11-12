@@ -1,2 +1,6 @@
 # Hello_World
-Just another repository
+Hi Computers
+
+I am Rush, a idiot in computer programming
+
+
